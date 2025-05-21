@@ -1,8 +1,8 @@
-Repositório destinado ao curso da AWS que a ajudará para o exame AWS Certified Cloud Practitioner.
+# Repositório destinado ao curso da AWS que a ajudará para o exame AWS Certified Cloud Practitioner.
 
-| Informações gerais sobre o exame de certificação | 
+## | Informações gerais sobre o exame de certificação | 
 | :-: | :-: |
-| AWS Certified Cloud Practitioner (CLF-C02) | 
+### | AWS Certified Cloud Practitioner (CLF-C02) | 
 | Introdução | O exame AWS Certified Cloud Practitioner (CLF-C02) é destinado a indivíduos que possam demonstrar efetivamente conhecimento geralda nuvem AWS, independentemente de um cargo específico. O exame valida a habilidade de um candidato de concluir as seguintestarefas:
 • Explicar o valor da nuvem AWS
 • Entender e explicar o modelo de responsabilidade compartilhada da AWS
